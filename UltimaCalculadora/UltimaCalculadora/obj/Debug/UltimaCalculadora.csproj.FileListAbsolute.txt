@@ -1,0 +1,15 @@
+C:\Users\Romina\source\repos\UltimaCalculadora\UltimaCalculadora\bin\Debug\UltimaCalculadora.exe.config
+C:\Users\Romina\source\repos\UltimaCalculadora\UltimaCalculadora\bin\Debug\UltimaCalculadora.exe
+C:\Users\Romina\source\repos\UltimaCalculadora\UltimaCalculadora\bin\Debug\UltimaCalculadora.pdb
+C:\Users\Romina\source\repos\UltimaCalculadora\UltimaCalculadora\obj\Debug\UltimaCalculadora.csproj.AssemblyReference.cache
+C:\Users\Romina\source\repos\UltimaCalculadora\UltimaCalculadora\obj\Debug\UltimaCalculadora.csproj.SuggestedBindingRedirects.cache
+C:\Users\Romina\source\repos\UltimaCalculadora\UltimaCalculadora\obj\Debug\UltimaCalculadora.Form1.resources
+C:\Users\Romina\source\repos\UltimaCalculadora\UltimaCalculadora\obj\Debug\UltimaCalculadora.Properties.Resources.resources
+C:\Users\Romina\source\repos\UltimaCalculadora\UltimaCalculadora\obj\Debug\UltimaCalculadora.csproj.GenerateResource.cache
+C:\Users\Romina\source\repos\UltimaCalculadora\UltimaCalculadora\obj\Debug\UltimaCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\Romina\source\repos\UltimaCalculadora\UltimaCalculadora\obj\Debug\UltimaCalculadora.exe
+C:\Users\Romina\source\repos\UltimaCalculadora\UltimaCalculadora\obj\Debug\UltimaCalculadora.pdb
+C:\Users\Romina\Documents\Proyecto Calculadora\UltimaCalculadora\obj\Debug\UltimaCalculadora.csproj.AssemblyReference.cache
+C:\Users\Romina\Documents\Proyecto Calculadora\UltimaCalculadora\obj\Debug\UltimaCalculadora.csproj.SuggestedBindingRedirects.cache
+C:\Users\Romina\Documents\Proyecto Calculadora\UltimaCalculadora\obj\Debug\UltimaCalculadora.exe
+C:\Users\Romina\Documents\Proyecto Calculadora\UltimaCalculadora\obj\Debug\UltimaCalculadora.pdb
